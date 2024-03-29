@@ -12,9 +12,7 @@ Infelizmente, quando você tenta utilizar o recurso Azure OpenAI é necessário 
 
 #
 
-O Copilot usa a interação conversacional e possue uma linguagem natural ao se comunicar com o cliente. 
-
-Segue alguns exemplos de como podemos utilizar essa poderosa ferramenta ⚒️
+O Copilot usa a interação conversacional e possue uma linguagem natural ao se comunicar com o cliente. Segue alguns exemplos de como podemos utilizar essa poderosa ferramenta ⚒️
 
 # Realizar pesquisas:
 
