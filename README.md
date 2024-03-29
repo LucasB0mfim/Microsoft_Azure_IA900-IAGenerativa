@@ -4,7 +4,7 @@ Infelizmente, quando você tenta utilizar o recurso Azure OpenAI é necessário 
 
 ###
 
-<img src="./inputs/7">
+<img src="./inputs/7.png">
 
 ###
 
