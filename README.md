@@ -1,6 +1,6 @@
 # IA Generativa com Copilot e OpenAI
 
-Infelizmente, quando você tenta utilizar o recurso Azure OpenAI é necessário fazer um formulário e pedir autorização para a Azure OpenAI, que por sua vez não permite contas pessoais para estudo. 
+Infelizmente, quando você tenta utilizar o recurso Azure OpenAI, é necessário preencher um formulário e solicitar autorização para a Azure OpenAI, que por sua vez não permite contas pessoais para estudo.
 
 ###
 
@@ -65,3 +65,6 @@ O Copilot usa a interação conversacional e possue uma linguagem natural ao se 
 
 ###
 
+#
+
+### **Em resumo, o Copilot é uma ferramenta poderosa que pode acelerar o processo de desenvolvimento de software, mas os desenvolvedores devem usá-lo com cautela e responsabilidade, complementando-o com seu próprio conhecimento e experiência.**
